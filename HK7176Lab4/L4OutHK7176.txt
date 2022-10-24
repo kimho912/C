@@ -1,0 +1,221 @@
+
+1.a) Swaped arrays in row rw with values in row rw+1:
+Line        Relation        Age Gender   Day Month  Year            Last Name           First Name
+====================================================================================================
+  0:         brother      58.00     M    15    10  1969              Matheny               Albert
+  1:          father     -86.00     M     5     1  1935              Matheny               Albert
+  2:          friend      63.00     N    29     9  1958              Son Jae              Stanley
+  3:          cousin      75.00     M    31     2  1946              Francis              William
+  4:          sister      52.50     F    19     5  1969                McKay                Chris
+  5:  brother-in-law      58.00     M    23     2  1963           Mayor-Domo                  Tim
+  6:            hero      18.00     M     9     5  1955             The Frog               Kermit
+  7:   previous_boss      41.00     M    18     7  1979             Ebrahimi                Ahmed
+  8:           uncle      83.00     B     3     3  1933               Bishop               Forbes
+  9:     goddaughter       0.75     F    13     3  2021                 Lane                Holly
+ 10:       colleague      28.00     U     8     8  2001       Vetenari-Vines                 Dale
+ 11:          spouse      71.00     M    12     2  1950              Colcord          John Nathan
+ 12:     stepbrother      54.00     U    31     9  1967               Manous                Brady
+ 13:     grandmother     102.00     F    20     9  1902             Williams Mildred Carter McKay
+ 14:          friend      30.00     F    20    12  1991                Patel                  Liz
+ 15:  faculty_mentor      48.00     N     9     9  1951             Harbison            Dr. Karan
+ 16:          mother      56.88     F     3     1  1965                  Lee            Sun jeong
+ 17:          father      56.58     M    22     4  1965                  Kim               Ki bok
+ 18:          friend      22.01     M    18   -11  1999                 Hong            Youngchan
+ 19:          sister      30.60     F    32     4  1991                 Park                Grace
+ 20:     grandfather      83.30     M    30     9  1935                  Kim          Yeong hwang
+ 21:     grandmother      81.20     F    30     8  1940                 Park            Baksun-ja
+ 22:     study_buddy    4011.00     F    21    11 -1999                Moody                 Olga
+ 23:    mental_buddy      31.60     F    23     4  1990                Holly                 Lane
+ 24:        soulmate      26.00     U    12     8 10900              Bennett               D2vin3
+ 25:         roomate      49.05     M     4    11  1972                 Park              Darlene
+ 26:   coffee_friend      23.76     M    18     2  1998              Spencer                  Sam
+ 27:          mentor      28.50     M     0     5  1993               Rogers                Bryan
+ 28:             dog       2.20     M    12     9  2019                  Kim            Charlotte
+ 29:            aunt      32.10     F     4     3  1970                  Lee               Yeasol
+ 30:          mother      74.00     F    23     9  1935       Williams Schou        Sandra Carter
+====================================================================================================
+
+1.b) Sorted arrays by age from youngest to oldest:
+Line        Relation        Age Gender   Day Month  Year            Last Name           First Name
+====================================================================================================
+  0:          father     -86.00     M     5     1  1935              Matheny               Albert
+  1:     goddaughter       0.75     F    13     3  2021                 Lane                Holly
+  2:             dog       2.20     M    12     9  2019                  Kim            Charlotte
+  3:            hero      18.00     M     9     5  1955             The Frog               Kermit
+  4:          friend      22.01     M    18   -11  1999                 Hong            Youngchan
+  5:   coffee_friend      23.76     M    18     2  1998              Spencer                  Sam
+  6:        soulmate      26.00     U    12     8 10900              Bennett               D2vin3
+  7:       colleague      28.00     U     8     8  2001       Vetenari-Vines                 Dale
+  8:          mentor      28.50     M     0     5  1993               Rogers                Bryan
+  9:          friend      30.00     F    20    12  1991                Patel                  Liz
+ 10:          sister      30.60     F    32     4  1991                 Park                Grace
+ 11:    mental_buddy      31.60     F    23     4  1990                Holly                 Lane
+ 12:            aunt      32.10     F     4     3  1970                  Lee               Yeasol
+ 13:   previous_boss      41.00     M    18     7  1979             Ebrahimi                Ahmed
+ 14:  faculty_mentor      48.00     N     9     9  1951             Harbison            Dr. Karan
+ 15:         roomate      49.05     M     4    11  1972                 Park              Darlene
+ 16:          sister      52.50     F    19     5  1969                McKay                Chris
+ 17:     stepbrother      54.00     U    31     9  1967               Manous                Brady
+ 18:          father      56.58     M    22     4  1965                  Kim               Ki bok
+ 19:          mother      56.88     F     3     1  1965                  Lee            Sun jeong
+ 20:         brother      58.00     M    15    10  1969              Matheny               Albert
+ 21:  brother-in-law      58.00     M    23     2  1963           Mayor-Domo                  Tim
+ 22:          friend      63.00     N    29     9  1958              Son Jae              Stanley
+ 23:          spouse      71.00     M    12     2  1950              Colcord          John Nathan
+ 24:          mother      74.00     F    23     9  1935       Williams Schou        Sandra Carter
+ 25:          cousin      75.00     M    31     2  1946              Francis              William
+ 26:     grandmother      81.20     F    30     8  1940                 Park            Baksun-ja
+ 27:           uncle      83.00     B     3     3  1933               Bishop               Forbes
+ 28:     grandfather      83.30     M    30     9  1935                  Kim          Yeong hwang
+ 29:     grandmother     102.00     F    20     9  1902             Williams Mildred Carter McKay
+ 30:     study_buddy    4011.00     F    21    11 -1999                Moody                 Olga
+====================================================================================================
+
+1.c) Sorted arrays by relationship in alphabetical order:
+Line        Relation        Age Gender   Day Month  Year            Last Name           First Name
+====================================================================================================
+  0:            aunt      32.10     F     4     3  1970                  Lee               Yeasol
+  1:         brother      58.00     M    15    10  1969              Matheny               Albert
+  2:  brother-in-law      58.00     M    23     2  1963           Mayor-Domo                  Tim
+  3:   coffee_friend      23.76     M    18     2  1998              Spencer                  Sam
+  4:       colleague      28.00     U     8     8  2001       Vetenari-Vines                 Dale
+  5:          cousin      75.00     M    31     2  1946              Francis              William
+  6:             dog       2.20     M    12     9  2019                  Kim            Charlotte
+  7:  faculty_mentor      48.00     N     9     9  1951             Harbison            Dr. Karan
+  8:          father     -86.00     M     5     1  1935              Matheny               Albert
+  9:          father      56.58     M    22     4  1965                  Kim               Ki bok
+ 10:          friend      22.01     M    18   -11  1999                 Hong            Youngchan
+ 11:          friend      30.00     F    20    12  1991                Patel                  Liz
+ 12:          friend      63.00     N    29     9  1958              Son Jae              Stanley
+ 13:     goddaughter       0.75     F    13     3  2021                 Lane                Holly
+ 14:     grandfather      83.30     M    30     9  1935                  Kim          Yeong hwang
+ 15:     grandmother      81.20     F    30     8  1940                 Park            Baksun-ja
+ 16:     grandmother     102.00     F    20     9  1902             Williams Mildred Carter McKay
+ 17:            hero      18.00     M     9     5  1955             The Frog               Kermit
+ 18:    mental_buddy      31.60     F    23     4  1990                Holly                 Lane
+ 19:          mentor      28.50     M     0     5  1993               Rogers                Bryan
+ 20:          mother      56.88     F     3     1  1965                  Lee            Sun jeong
+ 21:          mother      74.00     F    23     9  1935       Williams Schou        Sandra Carter
+ 22:   previous_boss      41.00     M    18     7  1979             Ebrahimi                Ahmed
+ 23:         roomate      49.05     M     4    11  1972                 Park              Darlene
+ 24:          sister      30.60     F    32     4  1991                 Park                Grace
+ 25:          sister      52.50     F    19     5  1969                McKay                Chris
+ 26:        soulmate      26.00     U    12     8 10900              Bennett               D2vin3
+ 27:          spouse      71.00     M    12     2  1950              Colcord          John Nathan
+ 28:     stepbrother      54.00     U    31     9  1967               Manous                Brady
+ 29:     study_buddy    4011.00     F    21    11 -1999                Moody                 Olga
+ 30:           uncle      83.00     B     3     3  1933               Bishop               Forbes
+====================================================================================================
+
+1.d) Sorted arrays by last name and then first name in alphabetical order:
+Line        Relation        Age Gender   Day Month  Year            Last Name           First Name
+====================================================================================================
+  0:        soulmate      26.00     U    12     8 10900              Bennett               D2vin3
+  1:           uncle      83.00     B     3     3  1933               Bishop               Forbes
+  2:          spouse      71.00     M    12     2  1950              Colcord          John Nathan
+  3:   previous_boss      41.00     M    18     7  1979             Ebrahimi                Ahmed
+  4:          cousin      75.00     M    31     2  1946              Francis              William
+  5:  faculty_mentor      48.00     N     9     9  1951             Harbison            Dr. Karan
+  6:    mental_buddy      31.60     F    23     4  1990                Holly                 Lane
+  7:          friend      22.01     M    18   -11  1999                 Hong            Youngchan
+  8:             dog       2.20     M    12     9  2019                  Kim            Charlotte
+  9:          father      56.58     M    22     4  1965                  Kim               Ki bok
+ 10:     grandfather      83.30     M    30     9  1935                  Kim          Yeong hwang
+ 11:     goddaughter       0.75     F    13     3  2021                 Lane                Holly
+ 12:          mother      56.88     F     3     1  1965                  Lee            Sun jeong
+ 13:            aunt      32.10     F     4     3  1970                  Lee               Yeasol
+ 14:     stepbrother      54.00     U    31     9  1967               Manous                Brady
+ 15:         brother      58.00     M    15    10  1969              Matheny               Albert
+ 16:          father     -86.00     M     5     1  1935              Matheny               Albert
+ 17:  brother-in-law      58.00     M    23     2  1963           Mayor-Domo                  Tim
+ 18:          sister      52.50     F    19     5  1969                McKay                Chris
+ 19:     study_buddy    4011.00     F    21    11 -1999                Moody                 Olga
+ 20:     grandmother      81.20     F    30     8  1940                 Park            Baksun-ja
+ 21:         roomate      49.05     M     4    11  1972                 Park              Darlene
+ 22:          sister      30.60     F    32     4  1991                 Park                Grace
+ 23:          friend      30.00     F    20    12  1991                Patel                  Liz
+ 24:          mentor      28.50     M     0     5  1993               Rogers                Bryan
+ 25:          friend      63.00     N    29     9  1958              Son Jae              Stanley
+ 26:   coffee_friend      23.76     M    18     2  1998              Spencer                  Sam
+ 27:            hero      18.00     M     9     5  1955             The Frog               Kermit
+ 28:       colleague      28.00     U     8     8  2001       Vetenari-Vines                 Dale
+ 29:     grandmother     102.00     F    20     9  1902             Williams Mildred Carter McKay
+ 30:          mother      74.00     F    23     9  1935       Williams Schou        Sandra Carter
+====================================================================================================
+
+1.e) Sorted arrays by day, month,and year from earliest to lastest:
+Line        Relation        Age Gender   Day Month  Year            Last Name           First Name
+====================================================================================================
+  0:     study_buddy    4011.00     F    21    11 -1999                Moody                 Olga
+  1:     grandmother     102.00     F    20     9  1902             Williams Mildred Carter McKay
+  2:           uncle      83.00     B     3     3  1933               Bishop               Forbes
+  3:          father     -86.00     M     5     1  1935              Matheny               Albert
+  4:          mother      74.00     F    23     9  1935       Williams Schou        Sandra Carter
+  5:     grandfather      83.30     M    30     9  1935                  Kim          Yeong hwang
+  6:     grandmother      81.20     F    30     8  1940                 Park            Baksun-ja
+  7:          cousin      75.00     M    31     2  1946              Francis              William
+  8:          spouse      71.00     M    12     2  1950              Colcord          John Nathan
+  9:  faculty_mentor      48.00     N     9     9  1951             Harbison            Dr. Karan
+ 10:            hero      18.00     M     9     5  1955             The Frog               Kermit
+ 11:          friend      63.00     N    29     9  1958              Son Jae              Stanley
+ 12:  brother-in-law      58.00     M    23     2  1963           Mayor-Domo                  Tim
+ 13:          mother      56.88     F     3     1  1965                  Lee            Sun jeong
+ 14:          father      56.58     M    22     4  1965                  Kim               Ki bok
+ 15:     stepbrother      54.00     U    31     9  1967               Manous                Brady
+ 16:          sister      52.50     F    19     5  1969                McKay                Chris
+ 17:         brother      58.00     M    15    10  1969              Matheny               Albert
+ 18:            aunt      32.10     F     4     3  1970                  Lee               Yeasol
+ 19:         roomate      49.05     M     4    11  1972                 Park              Darlene
+ 20:   previous_boss      41.00     M    18     7  1979             Ebrahimi                Ahmed
+ 21:    mental_buddy      31.60     F    23     4  1990                Holly                 Lane
+ 22:          sister      30.60     F    32     4  1991                 Park                Grace
+ 23:          friend      30.00     F    20    12  1991                Patel                  Liz
+ 24:          mentor      28.50     M     0     5  1993               Rogers                Bryan
+ 25:   coffee_friend      23.76     M    18     2  1998              Spencer                  Sam
+ 26:          friend      22.01     M    18   -11  1999                 Hong            Youngchan
+ 27:       colleague      28.00     U     8     8  2001       Vetenari-Vines                 Dale
+ 28:             dog       2.20     M    12     9  2019                  Kim            Charlotte
+ 29:     goddaughter       0.75     F    13     3  2021                 Lane                Holly
+ 30:        soulmate      26.00     U    12     8 10900              Bennett               D2vin3
+====================================================================================================
+
+1.f) (Main routine) Sorted arrays by last name and first name in alphabetical order:
+Line        Relation        Age Gender   Day Month  Year            Last Name           First Name
+====================================================================================================
+  0:        soulmate      26.00     U    12     8 10900              Bennett               D2vin3
+  1:           uncle      83.00     B     3     3  1933               Bishop               Forbes
+  2:          spouse      71.00     M    12     2  1950              Colcord          John Nathan
+  3:   previous_boss      41.00     M    18     7  1979             Ebrahimi                Ahmed
+  4:          cousin      75.00     M    31     2  1946              Francis              William
+  5:  faculty_mentor      48.00     N     9     9  1951             Harbison            Dr. Karan
+  6:    mental_buddy      31.60     F    23     4  1990                Holly                 Lane
+  7:          friend      22.01     M    18   -11  1999                 Hong            Youngchan
+  8:             dog       2.20     M    12     9  2019                  Kim            Charlotte
+  9:          father      56.58     M    22     4  1965                  Kim               Ki bok
+ 10:     grandfather      83.30     M    30     9  1935                  Kim          Yeong hwang
+ 11:     goddaughter       0.75     F    13     3  2021                 Lane                Holly
+ 12:          mother      56.88     F     3     1  1965                  Lee            Sun jeong
+ 13:            aunt      32.10     F     4     3  1970                  Lee               Yeasol
+ 14:     stepbrother      54.00     U    31     9  1967               Manous                Brady
+ 15:          father     -86.00     M     5     1  1935              Matheny               Albert
+ 16:         brother      58.00     M    15    10  1969              Matheny               Albert
+ 17:  brother-in-law      58.00     M    23     2  1963           Mayor-Domo                  Tim
+ 18:          sister      52.50     F    19     5  1969                McKay                Chris
+ 19:     study_buddy    4011.00     F    21    11 -1999                Moody                 Olga
+ 20:     grandmother      81.20     F    30     8  1940                 Park            Baksun-ja
+ 21:         roomate      49.05     M     4    11  1972                 Park              Darlene
+ 22:          sister      30.60     F    32     4  1991                 Park                Grace
+ 23:          friend      30.00     F    20    12  1991                Patel                  Liz
+ 24:          mentor      28.50     M     0     5  1993               Rogers                Bryan
+ 25:          friend      63.00     N    29     9  1958              Son Jae              Stanley
+ 26:   coffee_friend      23.76     M    18     2  1998              Spencer                  Sam
+ 27:            hero      18.00     M     9     5  1955             The Frog               Kermit
+ 28:       colleague      28.00     U     8     8  2001       Vetenari-Vines                 Dale
+ 29:     grandmother     102.00     F    20     9  1902             Williams Mildred Carter McKay
+ 30:          mother      74.00     F    23     9  1935       Williams Schou        Sandra Carter
+====================================================================================================
+
+
+What is the name you are searching for? (Lastname, Firstname): 
+The target name Park, Grace was found at location 22
+

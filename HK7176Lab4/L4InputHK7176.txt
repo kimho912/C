@@ -1,0 +1,31 @@
+mother 74 F 23 9 1935 Williams Schou, Sandra Carter
+brother 58 M 15 10 1969 Matheny, Albert
+father -86 M 5 1 1935 Matheny, Albert
+friend 63 N 29 9 1958 Son Jae, Stanley
+cousin 75 M 31 2 1946 Francis, William
+sister 52.5 F 19 5 1969 McKay, Chris
+brother-in-law 58 M 23 2 1963 Mayor-Domo, Tim
+hero 18 M 9 5 1955 The Frog, Kermit
+previous_boss 41 M 18 7 1979 Ebrahimi, Ahmed
+uncle 83 B 3 3 1933 Bishop, Forbes
+goddaughter 0.75 F 13 3 2021 Lane, Holly
+colleague 28 U 8 8 2001 Vetenari-Vines, Dale
+spouse 71 M 12 2 1950 Colcord, John Nathan
+stepbrother 54 U 31 9 1967 Manous, Brady
+grandmother 102 F 20 9 1902 Williams, Mildred Carter McKay
+friend 30 F 20 12 1991 Patel, Liz
+faculty_mentor 48 N 9 9 1951 Harbison, Dr. Karan
+mother 56.88 F 3 1 1965 Lee, Sun jeong
+father 56.58 M 22 4 1965 Kim, Ki bok
+friend 22.01 M 18 -11 1999 Hong, Youngchan
+sister 30.6 F 32 4 1991 Park, Grace
+grandfather 83.3 M 30 9 1935 Kim, Yeong hwang
+grandmother 81.2 F 30 8 1940 Park, Baksun-ja
+study_buddy 4011 F 21 11 -1999 Moody, Olga
+mental_buddy 31.6 F 23 4 1990 Holly, Lane
+soulmate 26 U 12 8 10900 Bennett, D2vin3
+roomate 49.05 M 4 11 1972 Park, Darlene
+coffee_friend 23.76 M 18 2 1998 Spencer, Sam
+mentor 28.5 M 0 5 1993 Rogers, Bryan
+dog 2.2 M 12 9 2019 Kim, Charlotte
+aunt 32.1 F 4 3 1970 Lee, Yeasol

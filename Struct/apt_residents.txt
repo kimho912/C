@@ -1,0 +1,5 @@
+Katia Dimanche,apt 109,0
+Jon Miller,apt 127,0
+Abdul Chuol,apt 223,0
+David Petrovsky,apt 219,0
+Jake Baum,apt 113,0

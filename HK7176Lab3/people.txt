@@ -1,0 +1,14 @@
+mother 56.88 F 3 1 1965 Lee, Sun jeong
+father 56.58 M 22 4 1965 Kim, Ki bok
+friend 22.01 M 18 -11 1999 Hong, Youngchan
+sister 30.6 F 32 4 1991 Park, Grace
+grandfather 83.3 M 30 9 1935 Kim, Yeong hwang
+grandmother 81.2 F 30 8 1940 Park, Baksun-ja
+study_buddy 4011 F 21 11 -1999 Moody, Olga
+mental_buddy 31.6 F 23 4 1990 Holly, Lane
+soulmate 26 U 12 8 10900 Bennett, D2vin3
+roomate 49.05 M 4 11 1972 Park, Darlene
+coffee_friend 23.76 M 18 2 1998 Spencer, Sam
+mentor 28.5 M 0 5 1993 Rogers, Bryan
+dog 2.2 M 12 9 2019 Kim, Charlotte
+aunt 32.1 F 4 3 1970 Lee, Yeasol

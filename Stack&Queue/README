@@ -1,0 +1,29 @@
+//Hyun Ho Kim 1001967176
+
+***README***
+
+Files included: stack_queue6.c, stack_queue6.h, hw6.c, hw6.h, main.c, makefile
+-----
+
+The stack_queue6.c program has all functions dealing with operations on the stack and queue.
+
+The hw6.c program has all functions created for the prompts.
+
+The main.c program tests if all the functions work well.
+
+-----
+
+Compilation instructions:
+
+--Example 1 (running main.c):
+gcc main.c stack_queue6.c hw6.c
+./a.out (filename)
+
+Make sure you need a file to read the first name, last name followed by the data in this format:
+Jon,Doe,3434
+Jane,Doe,3434
+.
+.
+.
+
+Don't forget to enter filename when you run it.

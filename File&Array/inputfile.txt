@@ -1,0 +1,14 @@
+Teddy
+100
+Dave
+200
+Chauncey
+300
+Terrell
+500
+Mark
+20
+Levi
+400
+Eric
+700

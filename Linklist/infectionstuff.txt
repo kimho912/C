@@ -1,0 +1,4 @@
+Country 1,a,29,.04
+Country 2,a,21,.11
+Country 3,a,25,.02
+Country 4,a,26,.03

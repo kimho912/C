@@ -1,0 +1,6 @@
+blue,1,0
+yellow,2,0
+red,2,0
+red,1,0
+gree,1,0
+blue,2,0

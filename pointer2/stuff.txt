@@ -1,0 +1,7 @@
+Filename: stuff.txt
+We're dealing with string info.
+
+Contents of the file:
+hello world!
+I am here to say that
+it is a sunny day.
